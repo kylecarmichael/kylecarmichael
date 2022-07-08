@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Right now I am in my third year at Arizona State University going after a BS in Graphic Information Technology (GIT for short).
-What's GIT? I like to think of it as the perfect mix between Graphical Knowledge and Technical application of that knowledge.
+I am currently a senior at Arizona State University working towards a BS in Graphic Information Technology (GIT for short).
+So what's GIT? I like to think of it as the perfect mix between Graphical Knowledge and Technical application of that knowledge. In other words, Front End!
 Many of the classes I have taken utilize the fundamentals of art and design by the creation of real world projects.
 Some of my repos are school projects that I have embelished well beyond the requirenments of the class, I've made this a habit over the years.
 
 ## What am I working on right now?
 
-Currently I am working on a school project creating a website with object oriented JavaScript code. 
-This website is a kind of To-Do list for movies and shows that we want to watch but can't seem to find the time for.
-I already have plans for how to improve the site beyond the course requirenments by implementing CRUD and Date objects to remind how long ago the item was added to the list.
+For the Summer of 2022, I am working as a software engieneer at Starbucks. I am working on an industry level project with a team that will rollout to
+I am primarily using TypeScript & React but also working with UX/UI, algorithms, and Azure Speech SDK.
 
 ## What am I confident working with?
 
@@ -39,6 +38,9 @@ My most used languages/tools, I am very certain I could create/ find out how to 
 -SCSS
 -BootStrap 5
 
-## What am I learning next
+## What am I currently learning?
 
--Swift
+-TypeScript
+-ES6 features
+-React
+-Node
