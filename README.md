@@ -32,15 +32,16 @@ I am primarily using TypeScript & React but also working with UX/UI, algorithms,
 ## What am I confident working with?
 
 My most used languages/tools, I am very certain I could create/ find out how to create my desired outcome
--HTML
--CSS
--Vanilla JS
--SCSS
--BootStrap 5
+
+- HTML
+- CSS
+- Vanilla JS
+- SCSS
+- BootStrap 5
 
 ## What am I currently learning?
 
--TypeScript
--ES6 features
--React
--Node
+- TypeScript
+- ES6 features
+- React
+- Node
