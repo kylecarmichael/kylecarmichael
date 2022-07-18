@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylecarmichael)](https://github.com/kylecarmichael/github-readme-stats)
-
 ## About Me
 
 I am currently a senior at Arizona State University working towards a BS in Graphic Information Technology (GIT for short).
@@ -39,9 +37,29 @@ My most used languages/tools, I am very certain I could create/ find out how to 
 - SCSS
 - BootStrap 5
 
+## What do I mostly use?
+
+I like putting a lot of fun web projects to showcase (hence the large amount of HTML)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylecarmichael)](https://github.com/kylecarmichael/github-readme-stats)
+
+
 ## What am I currently learning?
+
+These are the things I am actively learning and need a moderate amount of time to achieve a desired result 
 
 - TypeScript
 - ES6 features
 - React
 - Node
+- Material UI
+
+## Whats next?
+
+Tech I am excited about but may not be applicable to my current work & tech for future personal projects
+
+- Unity 
+- Swift & XCode
+- Python (some competency)
+- Linux 
+- Svelte
