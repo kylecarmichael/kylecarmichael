@@ -36,6 +36,7 @@ My most used languages/tools, I am very certain I could create/ find out how to 
 - Vanilla JS
 - SCSS
 - BootStrap 5
+- jQuery
 
 ## What do I mostly use?
 
