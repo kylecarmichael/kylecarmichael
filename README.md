@@ -21,16 +21,16 @@ As a software engineer, I have worked with a team of developers to create access
 
 I have strengths in web development using React, UX design, and Typescript. I am passionate about combining my technical and creative skills to create impactful and inclusive digital experiences. I aim to continue learning and growing as a software engineer and UX designer and make a positive difference in the world through technology.
 
+## Experience
+
+Since the Summer of 2022, I have worked as a software engineer at Starbucks. I am working on industry-level projects with cross-functional teams that create solutions using cutting-edge tech, such as virtual reality and real-time speech-to-text solutions.
+
 ## Education
 
 I have a BS in Graphic Information Technology, also known as GIT.
 So what's GIT? It is the perfect mix of Graphical Knowledge and the Technical application of that knowledge. In other words, Front End!
 Many of the classes I have taken utilize the fundamentals of art and design by creating real-world projects.
 Some of my repos are school projects I have embellished well beyond the class requirements. I've made this a habit over the years.
-
-## Experience
-
-Since the Summer of 2022, I have worked as a software engineer at Starbucks. I am working on industry-level projects with cross-functional teams that create solutions using cutting-edge tech, such as virtual reality, real-time speech-to-text solutions, and 
 
 ## What tools am I working with?
 
